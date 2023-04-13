@@ -1,0 +1,13 @@
+{
+    "name": {
+        "short": "ZHJ",
+        "medium": "Zion's Harp (Jap.)",
+        "long": "Zion's Harp (Japanese)"
+    },
+    "addOn": true,
+    "primaryColor": "#E8666C",
+    "secondaryColor": "#E32B34",
+    "fileExtension": "png",
+    "numOfSongs": 128,
+    "missingSongs": []
+}
