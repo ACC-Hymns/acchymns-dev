@@ -1,12 +1,1 @@
-{
-    "name": {
-        "short": "HG",
-        "medium": "Higher Ground",
-        "long": "Higher Ground"
-    },
-    "addOn": false,
-    "primaryColor": "#FBBC13",
-    "secondaryColor": "#BD772A",
-    "fileExtension": "pdf",
-    "numOfSongs": 124
-}
+{"name":{"short":"HG","medium":"Higher Ground","long":"Higher Ground"},"primaryColor":"#FBBC13","secondaryColor":"#BD772A","fileExtension":"pdf","addOn":false,"indexAvailable":true}
