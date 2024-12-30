@@ -1,1 +1,0 @@
-import{W as o,X as i}from"./index-37b700ec.js";const t=o("Dialog",{web:()=>i(()=>import("./web-85d38d2f.js"),["assets/web-85d38d2f.js","assets/index-37b700ec.js","assets/index-0e55af83.css"]).then(e=>new e.DialogWeb)});export{t as D};
