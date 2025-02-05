@@ -1,0 +1,1 @@
+import{d as n,k as t,l as a,v as s,F as o,x as r,_ as l}from"./index-055648d2.js";const m=n({__name:"404View",setup(_){return(c,e)=>(r(),t(o,null,[e[0]||(e[0]=a("div",null,[a("h1",{class:"pagetitle"},"Unknown Route")],-1)),s(l,{current_page:"404"})],64))}});export{m as default};

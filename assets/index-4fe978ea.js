@@ -1,0 +1,1 @@
+import{Q as s,K as r}from"./index-055648d2.js";const a="/acchymns-dev/assets/share-outline.svg",o=s("Share",{web:()=>r(()=>import("./web-29e4b94d.js"),["assets/web-29e4b94d.js","assets/index-055648d2.js","assets/index-b8fcc075.css"]).then(e=>new e.ShareWeb)});export{o as S,a as _};
