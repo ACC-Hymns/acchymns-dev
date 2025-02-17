@@ -1,0 +1,1 @@
+import{U as e,N as o}from"./index-229ae8ba.js";const s=e("Toast",{web:()=>o(()=>import("./web-9755d586.js"),["assets/web-9755d586.js","assets/index-229ae8ba.js","assets/index-e6823b2f.css"]).then(t=>new t.ToastWeb)});export{s as T};
