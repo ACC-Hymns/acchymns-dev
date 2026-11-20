@@ -1,0 +1,1 @@
+import{M as e,S as t,_ as n,d as r,l as i,m as a,v as o}from"./vue.runtime.esm-bundler-jxyBBofA.js";import{d as s}from"./index-BeFLkgXp.js";t();var c=o({__name:`404View`,setup(t){return(t,o)=>(e(),a(i,null,[o[0]||=r(`div`,null,[r(`h1`,{class:`pagetitle`},`Unknown Route`)],-1),n(s,{current_page:`404`})],64))}});export{c as default};

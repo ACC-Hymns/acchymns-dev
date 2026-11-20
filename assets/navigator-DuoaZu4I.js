@@ -1,0 +1,1 @@
+import{mt as e}from"./index-BeFLkgXp.js";function t(){let t=e();function n(){let e=t.currentRoute.value,n=e.fullPath.lastIndexOf(`/`);if(console.log(`Current Route:`,e.fullPath,e.path),n==0){console.log(`Navigating to: /`),t.push(`/`);return}let r=e.path.substring(0,n);console.log(`Navigating to:`,r),t.push(r)}return{back:n}}export{t};

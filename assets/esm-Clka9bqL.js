@@ -1,0 +1,2 @@
+const __vite__mapDeps=(i,m=__vite__mapDeps,d=(m.f||(m.f=["assets/web-CWCu2Jg6.js","assets/index-BeFLkgXp.js","assets/vue.runtime.esm-bundler-jxyBBofA.js","assets/index-C8CeoJCG.css"])))=>i.map(i=>d[i]);
+import{et as e,it as t}from"./index-BeFLkgXp.js";var n=`/acchymns-dev/assets/share-outline.svg`,r=t(`Share`,{web:()=>e(()=>import(`./web-CWCu2Jg6.js`).then(e=>new e.ShareWeb),__vite__mapDeps([0,1,2,3]))});export{n,r as t};

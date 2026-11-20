@@ -1,0 +1,2 @@
+const __vite__mapDeps=(i,m=__vite__mapDeps,d=(m.f||(m.f=["assets/web-C9U4dLCu.js","assets/index-BeFLkgXp.js","assets/vue.runtime.esm-bundler-jxyBBofA.js","assets/index-C8CeoJCG.css"])))=>i.map(i=>d[i]);
+import{et as e,it as t}from"./index-BeFLkgXp.js";var n=t(`Toast`,{web:()=>e(()=>import(`./web-C9U4dLCu.js`).then(e=>new e.ToastWeb),__vite__mapDeps([0,1,2,3]))});export{n as t};

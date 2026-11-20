@@ -1,0 +1,1 @@
+var e=`/acchymns-dev/assets/chevron-back-outline.svg`;export{e as t};

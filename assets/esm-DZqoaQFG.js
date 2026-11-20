@@ -1,0 +1,2 @@
+const __vite__mapDeps=(i,m=__vite__mapDeps,d=(m.f||(m.f=["assets/web-Dfdcm8In.js","assets/index-BeFLkgXp.js","assets/vue.runtime.esm-bundler-jxyBBofA.js","assets/index-C8CeoJCG.css"])))=>i.map(i=>d[i]);
+import{et as e,it as t}from"./index-BeFLkgXp.js";var n=t(`Dialog`,{web:()=>e(()=>import(`./web-Dfdcm8In.js`).then(e=>new e.DialogWeb),__vite__mapDeps([0,1,2,3]))});export{n as t};
